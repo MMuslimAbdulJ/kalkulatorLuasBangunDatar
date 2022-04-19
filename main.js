@@ -1,3 +1,11 @@
+//Source code oleh Muhammad Muslim Abdul Jabbar
+//217200035
+//Universitas Putra Indonesia
+//Fakultas Teknik
+//Prodi Teknik Informatika
+//Tugas Pemrograman WEB
+
+
 //mengambil semua element input
 //mengambil input persegi
 let persegi = document.getElementById('persegiS');
